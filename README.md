@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Brijesh Jotaniya</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px"> I'm Brijesh Jotaniya</h1>
 <h3 align="center">DevOps Engineer </h3>
 <h3 align="center"> 🎓 Completed Computer Science at CHARUSAT University 🧑‍🎓</h3>
 
