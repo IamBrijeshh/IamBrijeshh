@@ -18,7 +18,7 @@
 🌐 Welcome, to my [Portfolio Website](https://iambrijeshh.github.io)
 
 - 📑 Focus on: Microsoft Azure | AWS | Devops | Data Science | Machine Learning | Data Engineering 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Looking forward to learn new technologies everyday!!!
 - 📫 Contact me through [Gmail](bjotaniya4@gmail.com)
 - :sparkling_heart: I love computers !!!
 
